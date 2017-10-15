@@ -25,7 +25,7 @@ echo " This is a CI build Step"
 
 '''
 
-// STAGE is a labeled block.
+// STAGE is a labeled block. testing
 stage 'Merge Build'
 
 // Below code will TAG the current state of code so that later it can be merged to Master branch
