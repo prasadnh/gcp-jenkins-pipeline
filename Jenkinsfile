@@ -1,5 +1,4 @@
 ///// Common variables /////
-//git credentialsId: '671afd4e-653f-4823-90ee-bc4fd423cf87', url: 'https://github.com/prasadnh/gcp-jenkins-pipeline'
 env.git_repo_name="https://github.com/prasadnh/gcp-jenkins-pipeline" // update this value as created in Step 9 above
 env.git_id="671afd4e-653f-4823-90ee-bc4fd423cf87"  // update this value as created in Step 9 above
 
