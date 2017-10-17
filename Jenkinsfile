@@ -1,6 +1,6 @@
 ///// Common variables /////
-//tesing plugin
-env.git_repo_name="https://github.com/prasadnh/gcp-jenkins-pipeline" // update this value as created in Step 9 above
+//check urls
+env.git_repo_name="https://github.com/prasadnh/gcp-jenkins-pipeline.git" // update this value as created in Step 9 above
 env.git_id="3f42f289e9da5611cf0d8cac02d5260b899a9082"  // update this value as created in Step 9 above
 
 node("master")
